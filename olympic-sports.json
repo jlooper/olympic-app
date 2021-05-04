@@ -1,0 +1,325 @@
+[
+	{
+		"sport": "3x3 Basketball",
+		"image": "basketball-men.png",
+		"details": "8-team tournament (Men/Women)",
+		"description": "A fast-paced and dynamic sport that switches between offence and defence in a flash.\r\n3x3 is known for its highly entertaining atmosphere with games being played at iconic locations in the city, while DJs and music help create an exciting and urban atmosphere.\r\nHowever, the highlight of 3x3 basketball is its fast pace. There is no break after a goal or foul, and the team on offence must take a shot within 12 seconds from possession of the ball.",
+		"gold": "🇷🇸 (Men), 🇨🇳 (Women)"
+	},
+	{
+		"sport": "Archery",
+		"image": "archery.png",
+		"details": "Individual competition (Men/Women), Team competition (Men/Women), Mixed Team",
+		"description": "The archery competition starts with a ranking round on the day of the Opening Ceremony. All 64 men and 64 women shoot 72 arrows and are then ranked from first to 64th based on their total scores. They then compete in pairs based on their rankings, with the first-ranked archer facing off against the 64th-ranked archer, the second-ranked against the 63rd-ranked, and so on.",
+		"gold": "🇰🇷"
+	},
+	{
+		"sport": "Artistic Gymnastics",
+		"image": "artistic-gymnastics.png",
+		"details": "Team competition (Men/Women), Individual all-around competition (Men/Women), Individual Events",
+		"description": "The artistic gymnastics competition begins with qualification rounds to determine who will move on to team all-around, individual all-around and individual finals. Points earned by each athlete for one performance in each event (two in the individual vault) decide whether they will proceed. In the team all-around event, the team size has changed from five to four gymnasts.",
+		"gold": "🇯🇵, 🇨🇳, 🇷🇺 (Men) and 🇺🇸, 🇷🇺, 🇨🇳 (Women)"
+	},
+
+	{
+		"sport": "Artistic Swimming",
+		"image": "artistic-swimming.png",
+		"details": "Duets (Women), Teams (Women)",
+		"description": "Artistic swimming became an Olympic discipline at the Los Angeles 1984 Games. Since then, the sport's regulations have changed a number of times. Initially, the sport consisted of two events: a solo routine (one performer) and a duet (two). A team event (with eight athletes) was held at the Atlanta 1996 Games, then the duet returned at Sydney 2000. Subsequent Games have featured both duet and team events.",
+		"gold": "🇷🇺, 🇪🇸, 🇫🇷, 🇺🇦"
+	},
+	{
+		"sport": "Athletics",
+		"image": "track-and-field.png",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Badminton",
+		"image": "badminton.png",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Baseball/Softball",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Basketball",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Beach Volleyball",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Boxing",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Canoe Slalom",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Canoe Sprint",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Cycling BMX Freestyle",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Cycling BMX Racing",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Cycling Mountain Bike",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Cycling Road",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Cycling Track",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Diving",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Equestrian",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Fencing",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Football",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Golf",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Handball",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Hockey",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Judo",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Karate",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Marathon Swimming",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Modern Pentathlon",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Rhythmic Gymnastics",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Rowing",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Rugby",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Sailing",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Shooting",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Skateboarding",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Sport Climbing",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Surfing",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Swimming",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Table Tennis",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Taekwondo",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Tennis",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Trampoline Gymnastics",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Triathlon",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Volleyball",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Water Polo",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Weightlifting",
+		"image": "",
+		"details": "",
+		"description": "",
+		"gold": ""
+	},
+	{
+		"sport": "Wrestling",
+		"image": "wrestling.png",
+		"details": "",
+		"description": "",
+		"gold": ""
+	}
+]
