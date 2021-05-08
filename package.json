@@ -1,6 +1,6 @@
 {
-  "name": "flippy-cards",
-  "version": "0.0.0",
+  "name": "olympic-cards",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
