@@ -19,6 +19,8 @@ Vite: [About Vite](https://vitejs.dev/guide/)
 
 The [Tokyo Olympics 2020](https://olympics.com/) web site (source of the sports event data)
 
+Free [CSS Grid Course](https://cssgrid.io/)
+
 Learn [how to develop applications](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-nodejs/?WT.mc_id=academic-26883-jelooper) using node.js
 
 [JavaScript basics video series](https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript?WT.mc_id=academic-26883-jelooper)
