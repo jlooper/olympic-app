@@ -1,7 +1,7 @@
 import './style.css';
 import data from './olympic-sports.json';
 
-var div = document.getElementById('grid');
+let div = document.getElementById('grid');
 
 for (var i = 0; i < data.length; i++) {
 	div.insertAdjacentHTML(
