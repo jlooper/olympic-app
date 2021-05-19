@@ -6,7 +6,7 @@ let div = document.getElementById('grid');
 for (var i = 0; i < data.length; i++) {
 	div.insertAdjacentHTML(
 		'beforeend',
-		'<div class="flip-card"><div class="flip-card-inner"><div class="flip-card-front"><img src="/images/' +
+		'<div class="flip-card"><div class="flip-card-inner"><div class="flip-card-front"><img src="/assets/' +
 			data[i].image +
 			'" alt=' +
 			JSON.stringify(data[i].sport) +
