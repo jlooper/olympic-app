@@ -44,16 +44,11 @@ body {
 	height: 100%;
 	backface-visibility: hidden;
 	border-radius: 0.5rem;
-}
-
-.flip-card-front {
 	background-color: white;
 	color: black;
 }
 
 .flip-card-back {
-	background-color: white;
-	color: black;
 	transform: rotateY(180deg);
 }
 
