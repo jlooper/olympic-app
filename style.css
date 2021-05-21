@@ -9,6 +9,7 @@ body {
 	color: white;
 	margin-top: 60px;
 }
+/* 🥇 */
 
 #grid {
 	display: grid;
@@ -24,6 +25,8 @@ body {
 	perspective: 1000px;
 }
 
+/* 🥈 */
+
 .flip-card-inner {
 	width: 100%;
 	height: 100%;
@@ -36,6 +39,8 @@ body {
 .flip-card:hover .flip-card-inner {
 	transform: rotateY(180deg);
 }
+
+/* 🥉 */
 
 .flip-card-front,
 .flip-card-back {
