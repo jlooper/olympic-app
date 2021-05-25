@@ -31,295 +31,295 @@
 	{
 		"sport": "Athletics",
 		"image": "track-and-field.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "100m, 200m,400m, 1500m, 5000m, 10000m (Men/Women), Hurdles, Steeplechase, Relay, Mixed Relay, Marathon",
+		"description": "Athletics is the largest single sport at the Games, with the programme divided into track, field and road events. The concept of running faster than your rivals is simple but every aspect of an athlete's performance must be perfect to win gold.",
+		"gold": "🇯🇲, 🇺🇸, 🇨🇦, 🇰🇪, 🇪🇹"
 	},
 	{
 		"sport": "Badminton",
 		"image": "badminton.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Singles (Men/Women), Doubles (Men/Women), Mixed Doubles",
+		"description": "Unlike other net sports, badminton uses a shuttlecock instead of a ball. A shuttlecock is an open conical object formed by goose feathers embedded in a rounded cork base. The speed at which this projectile moves is higher than in any other racket sport.",
+		"gold": "🇨🇳, 🇲🇾, 🇮🇩, 🇩🇰"
 	},
 	{
 		"sport": "Baseball/Softball",
 		"image": "baseball.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Baseball (Men)",
+		"description": "Last contested at Beijing 2008, baseball and its sister sport softball have been reinstated to the Olympic programme and will form part of the Tokyo 2020 Games.",
+		"gold": "🇯🇵, 🇨🇺, 🇺🇸"
 	},
 	{
 		"sport": "Basketball",
 		"image": "basketball-women.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "12-team tournament (Men/Women)",
+		"description": "Basketball is played by two teams of five players on a 28mx15m court with players looking to score by shooting the ball into a basket. A successful shot from outside the three-point line is awarded three points, a successful shot from inside the three-point line is two points and a successful free throw following a foul is one point.",
+		"gold": "🇺🇸"
 	},
 	{
 		"sport": "Beach Volleyball",
 		"image": "beach-volleyball.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "24-team tournament (Men/Women)",
+		"description": "The evolving game will make beach volleyball at the Tokyo 2020 Games highly competitive.",
+		"gold": "🇺🇸, 🇧🇷"
 	},
 	{
 		"sport": "Boxing",
 		"image": "boxing.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Fly, Feather, Light, Welter, Middle, Light Heavy, Heavy, Super Heavy",
+		"description": "Two athletes square up to each other in a ring, and victory is gained by the athlete who more successfully lands blows to their opponent's head and torso. This is a simple summary of a sport that featured at the ancient Olympic Games in the 7th century BC, when opponents fought with strips of leather wrapped around their fists.",
+		"gold": "🇺🇸, 🇨🇺"
 	},
 	{
 		"sport": "Canoe Slalom",
 		"image": "canoe-slalom.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Kayak, Canoe (Men/Women)",
+		"description": "In canoe slalom, competitors navigate a canoe or a kayak on a white-water course, passing through a combination of upstream and downstream gates on river rapids in the fastest time possible.",
+		"gold": "🇨🇿, 🇩🇪, 🇸🇰, 🇫🇷, 🇪🇸"
 	},
 	{
 		"sport": "Canoe Sprint",
 		"image": "canoe-sprint.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Kayak Single, Double, Four; Canoe Single, Double (Men/Women)",
+		"description": "For thousands of years, canoes have been used on rivers, lakes and at sea as a means of transport and a tool for hunting, playing an important role in the daily lives of humans.",
+		"gold": "🇭🇺, 🇺🇸, 🇳🇿"
 	},
 	{
 		"sport": "Cycling BMX Freestyle",
 		"image": "bmx-free.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Park (Men/Women)",
+		"description": "BMX has its roots in the racing culture that existed in California in the mid-1970s. Inspired by motocross riders, children tried to imitate their heroes by performing airborne tricks on their bikes.",
+		"gold": "🇯🇵, 🇺🇸, 🇦🇺"
 	},
 	{
 		"sport": "Cycling BMX Racing",
 		"image": "bmx-race.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Race (Men/Women)",
+		"description": "BMX racing has its roots in the racing culture that started in California between the 1960s and 1970s. Influenced by motocross riders, children tried to imitate their heroes, but the sport remained relatively small until the 1980s.",
+		"gold": "🇺🇸, 🇦🇺, 🇨🇴"
 	},
 	{
 		"sport": "Cycling Mountain Bike",
 		"image": "cycling-mountain.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Cross-Country (Men/Women)",
+		"description": "Mountain biking originated in the USA during the 1970s with people who loved the outdoors and decided to modify their bikes to be able to handle off-road conditions.",
+		"gold": "🇨🇭, 🇸🇪"
 	},
 	{
 		"sport": "Cycling Road",
 		"image": "cycling-road.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Road Race, Individual Time Trial (Men/Women)",
+		"description": "Ever since the bicycle was invented, it has been used for sport. Cycling became an Olympic sport at the first modern Games at Athens 1896 and is one of the few sports that have featured at every Olympic Games.",
+		"gold": "🇫🇷, 🇦🇺, 🇳🇱"
 	},
 	{
 		"sport": "Cycling Track",
 		"image": "cycling-track.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Team Sprint, Sprint, Keirin, Team Pursuit, Omnium, Madison (Men/Women)",
+		"description": "Cycling track is held in a bowl-shaped arena that is 250m round and is one of the oldest Olympic Games disciplines. The history of track dates back over 120 years with its first appearance coming at the Athens 1896 Games.",
+		"gold": "🇳🇿, 🇦🇺, 🇬🇧"
 	},
 	{
 		"sport": "Diving",
 		"image": "diving.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "3m Springboard, 10m Platform, Synchronised 3m Springboard, Synchronised 10m Platform (Men/Women)",
+		"description": "Dives are differentiated by the direction the diver faces for take-off, the direction of somersaults and twists performed, and whether the dive starts from a handstand. Scoring is based on factors including the beauty of a diver's movements.",
+		"gold": "🇨🇳, 🇺🇸"
 	},
 	{
 		"sport": "Equestrian",
 		"image": "equestrian.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Dressage, Jumping and Eventing (Individual/Team)",
+		"description": "Equestrian featured in the Paris 1900 Games, but its official debut took place at Stockholm 1912. Individual and team medals are awarded in each of the three equestrian disciplines.",
+		"gold": "🇩🇪"
 	},
 	{
 		"sport": "Fencing",
 		"image": "fencing.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Individual Foil, Individual Epée, Individual Sabre, Team Foil, Team Epée, Team Sabre (Men/Women)",
+		"description": "Fencing's appeal lies in the tactical exchange of two athletes with precise movements and fast-changing duels. The athletes' splendid swordplay at close distances are a thrilling highlight of any match.",
+		"gold": "a toss-up!"
 	},
 	{
 		"sport": "Football",
 		"image": "football.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "16-team tournament (Men), 12-team tournament (Women)",
+		"description": "In football, teams of 11 players compete to score goals by advancing the ball into their opponent's goal. Since all that's needed to play is a ball, the sport is enjoyed worldwide on every continent.",
+		"gold": "🇩🇪, 🇯🇵, 🇺🇸, 🇧🇷"
 	},
 	{
 		"sport": "Golf",
 		"image": "golf.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Individual Stroke Play (Men/Women)",
+		"description": "Golf consists of striking a ball into a series of holes using a selection of clubs and counting the number of strokes it takes to do so.",
+		"gold": "🇺🇸, 🇰🇷"
 	},
 	{
 		"sport": "Handball",
 		"image": "handball.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "12-team tournament (Men/Women)",
+		"description": "Teams of seven players pass and dribble a ball up the court to throw the ball into the opposition's goal, which happens often: spectators might see 60 goals or more in a single match.",
+		"gold": "🇰🇷, 🇫🇷, 🇩🇪, 🇩🇰"
 	},
 	{
 		"sport": "Hockey",
 		"image": "hockey.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "12-team tournament (Men/Women)",
+		"description": "Hockey players use hook-shaped sticks to advance a ball towards their opponent's goal. Matches are played over four 15-minute quarters (for a total of 60 minutes), after which the team with the most goals wins.",
+		"gold": "🇮🇳"
 	},
 	{
 		"sport": "Judo",
 		"image": "judo.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Various weight classes (Men/Women), Mixed Team",
+		"description": "Judo means the ‘gentle way’, but it is a full-on combat sport in which a false move or the slightest loss of concentration can result in defeat.",
+		"gold": "a toss-up!"
 	},
 	{
 		"sport": "Karate",
 		"image": "karate.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Kata, Kumite (Men/Women), Three weight categories",
+		"description": "Karate is a martial art that originated in Okinawa during the Ryukyu Dynasty period. It spread throughout Japan during the 1920s and then worldwide following World War II. It is predominantly a striking, kicking and punching art.",
+		"gold": "a toss-up!"
 	},
 	{
 		"sport": "Marathon Swimming",
 		"image": "marathon-swimming.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "10km Marathon Swimming (Men/Women)",
+		"description": "Taking place in open water environments such as the sea, rivers and lakes, but with a premium on safety, the men's and women's 10km open water swimming event is known as the marathon swimming event.",
+		"gold": "a toss-up!"
 	},
 	{
 		"sport": "Modern Pentathlon",
 		"image": "modern-pentathlon.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Individual competition (Men/Women)",
+		"description": "According to a 19th-century story, a young French cavalry officer was sent on horseback to deliver a message. To complete his mission, he had to ride, fight with a sword, shoot, swim and run. These are the five disciplines that face competitors in modern pentathlon.",
+		"gold": "🇦🇺, 🇬🇧, 🇷🇺"
 	},
 	{
 		"sport": "Rhythmic Gymnastics",
 		"image": "rhythmic-gymnastics.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Individual all-around competition, Group all-around competition (Women)",
+		"description": "Rhythmic gymnasts are scored on the artistry of their performances — which are set to music — and the skill with which they execute difficult manoeuvres with the handheld apparatus.",
+		"gold": "🇷🇺"
 	},
 	{
 		"sport": "Rowing",
 		"image": "rowing.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Single Sculls, Pair, Double Sculls, Four, Quadruple Sculls, Eight, Lightweight Double Sculls (Men/Women)",
+		"description": "Rowing involves propelling a boat using oars along a 2,000m straight-line course. Unlike canoeing, where athletes face forward, rowers sit with their backs to the direction of movement.",
+		"gold": "🇬🇧, 🇺🇸, 🇳🇿, 🇩🇪, 🇦🇺"
 	},
 	{
 		"sport": "Rugby",
 		"image": "rugby.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "12-team tournament (Men/Women)",
+		"description": "The aim of rugby is to convey an oval-shaped ball to the goal line located at the opposing team's end of the field and earn points for doing so. This is achieved by running with the ball, passing and kicking it.",
+		"gold": "🇳🇿, 🇫🇯"
 	},
 	{
 		"sport": "Sailing",
 		"image": "sailing.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Various hulls",
+		"description": "Sailing has a long history in the Olympic Games. The sport made its debut in 1900 and, with the exception of 1904, it has appeared at every Olympic Games since then.",
+		"gold": "🇬🇧"
 	},
 	{
 		"sport": "Shooting",
 		"image": "shooting.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Various Rifles, Rapid Fire Pistol, Air Pistol, Trap, Skeet, Trap Mixed Team",
+		"description": "In shooting, there are three disciplines; rifle and pistol where athletes shoot at stationary targets in a range and shotgun which involves hitting moving targets.",
+		"gold": "🇮🇹, 🇺🇸, 🇰🇷, 🇨🇳"
 	},
 	{
 		"sport": "Skateboarding",
 		"image": "skateboarding.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Park, Street (Men/Women)",
+		"description": "A skateboard is a short, narrow board with two small wheels attached to the bottom of either end. Skateboarders ride on this apparatus to perform tricks including jumps (ollies), flips and mid-air spins.",
+		"gold": "🇺🇸"
 	},
 	{
 		"sport": "Sport Climbing",
 		"image": "climbing.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Combined (Men/Women)",
+		"description": "Sport climbing takes the challenge of scaling steep ascents to a whole new level. Using a range of hand and foot holds of different shapes and sizes, climbers put their skills and strength into practice on a vertical wall.",
+		"gold": "a toss-up!"
 	},
 	{
 		"sport": "Surfing",
 		"image": "surfing.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Men/Women",
+		"description": "Surfing is one of five additional sports proposed by the Tokyo 2020 Organising Committee to bring more youthful and vibrant events and culture into the Olympic programme.",
+		"gold": "🇦🇺, 🇺🇸"
 	},
 	{
 		"sport": "Swimming",
 		"image": "swimming.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Various lengths: Freestyle, Backstroke, Breaststroke, Butterfly, Individual Medley, Freestyle Relay, Medley Relay (Men/Women)",
+		"description": "Swimmers compete to achieve the fastest time while covering a designated distance using a predetermined stroke (freestyle, backstroke, breaststroke or butterfly).",
+		"gold": "🇯🇵, 🇺🇸, 🇬🇧, 🇭🇺 ++"
 	},
 	{
 		"sport": "Table Tennis",
 		"image": "table-tennis.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Singles and Team (Men/Women), Mixed Doubles",
+		"description": "Table tennis made its Olympic debut at the Seoul 1988 Games with men's and women's singles and doubles. Since Beijing 2008 the competition has consisted of men's and women's singles and team events, while the Tokyo 2020 competition will also include a mixed doubles event.",
+		"gold": "🇨🇳"
 	},
 	{
 		"sport": "Taekwondo",
 		"image": "taekwondo.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Various weight classes (Men/Women)",
+		"description": "For some 2,000 years, a range of martial arts were practised on the Korean peninsula. During the early 20th century, taekwondo became the dominant form of martial art practised in Korea.",
+		"gold": "🇰🇷 and many more"
 	},
 	{
 		"sport": "Tennis",
 		"image": "tennis.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Singles, Doubles (Men/Women), Mixed Doubles",
+		"description": "A coin toss before the match determines which player will serve and which will receive. Scoring counts zero points as ‘love’, one point as ‘15’, two points as ‘30’ and three points as ‘40’. If a player scores four points first, he or she wins that game.",
+		"gold": "Expect surprises!"
 	},
 	{
 		"sport": "Trampoline Gymnastics",
 		"image": "trampoline.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Individual competition (Men/Women)",
+		"description": "Trampoline gymnasts perform a series of short routines containing a variety of twists, bounces and somersaults.",
+		"gold": "🇨🇳, 🇨🇦"
 	},
 	{
 		"sport": "Triathlon",
 		"image": "triathlon.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Individual competition (Men/Women), Mixed Relay",
+		"description": "Triathlon is an endurance sport that combines swimming, road cycling and distance running, performed in that order.",
+		"gold": "A toss-up!"
 	},
 	{
 		"sport": "Volleyball",
 		"image": "volleyball.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "12-team tournament (Men/Women)",
+		"description": "Volleyball is played by two teams on a 18m x 9m court divided by a net (2.43m high for men, 2.24m for women).",
+		"gold": "🇨🇳, 🇧🇷"
 	},
 	{
 		"sport": "Water Polo",
 		"image": "water-polo.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "12-team tournament (Men), 10-team tournament (Women)",
+		"description": "Water polo traces its origins to England in the 1860s, where games were staged in lakes, rivers and the sea as a demonstration of strength and swimming skill.",
+		"gold": "🇦🇺, 🇺🇸, 🇯🇵"
 	},
 	{
 		"sport": "Weightlifting",
 		"image": "weightlifting.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Various weight classes (Men/Women)",
+		"description": "The forerunner of weightlifting was the lifting of heavy stones in contests of strength, a feat practised throughout the ancient world.",
+		"gold": "🇨🇳, 🇪🇸"
 	},
 	{
 		"sport": "Wrestling",
 		"image": "wrestling.png",
-		"details": "",
-		"description": "",
-		"gold": ""
+		"details": "Various weight classes (Men/Women)",
+		"description": "Wrestling was a feature of the ancient Olympic Games in 708 BC, with the sport's Greco-Roman style included in the first Games of the modern era at Athens 1896.",
+		"gold": "🇷🇺, 🇺🇸, 🇯🇵"
 	}
 ]
